@@ -1,0 +1,48 @@
+#main{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+#parent{
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    border-radius: 120px;
+    background-color: yellow;
+    margin-top: 20px; 
+    margin-bottom: 900px;
+    margin-left: 20px;
+    /* margin-right: 650px; */
+}
+#oneye{
+    border: 2px solid red;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+margin-top: 35px;
+margin-left: 25px;
+}
+#twoeye
+{
+border: 2px solid red ;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    margin-top: -17px;
+    margin-left: 100px;
+}
+#smile{
+    border: 4px solid black;
+    width: 80px;
+    height:40px;
+    border-bottom-right-radius: 180px;
+    border-bottom-left-radius: 180px;
+    border-top-right-radius: 25px;
+    border-top: 150px;
+    margin-top: 28px;
+    margin-left: 29px;
+}
